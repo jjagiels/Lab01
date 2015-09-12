@@ -19,7 +19,7 @@ public class Lab01 {
 		System.out.print("What is your annual return (whole percentages)?: ");
 		annualReturn = inp.nextDouble()/100;
 		
-		System.out.print("How many years do you plan to retire before your untimely death?: ");
+		System.out.print("How many years do you plan to retire?: ");
 		yearsRetired = inp.nextInt();
 		
 		System.out.print("What is your interest rate when you are retired (whole percentages)?: ");
